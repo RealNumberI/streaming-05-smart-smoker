@@ -1,5 +1,5 @@
 ## streaming-05-smart-smoker
-# Tanya Fagaly
+
 # February 4, 2023
 https://github.com/RealNumberI/streaming-05-smart-smoker
 
